@@ -1,3 +1,5 @@
+# 10813 - 공 바꾸기
+
 n, m = map(int, input().split())
 arr = [i for i in range(n+1)]
 for _ in range(m):
